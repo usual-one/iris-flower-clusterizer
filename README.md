@@ -2,6 +2,8 @@
 
 Python 3 clusterization example for BMSTU APL course
 
+![plot screenshot](https://raw.githubusercontent.com/usual-one/iris-flower-clusterizer/master/docs/img/example.png?token=ALP5EFVXOUWDEBCXNXEFX4K76YLLY)
+
 ## Used languages and libraries
 
 Languages:
